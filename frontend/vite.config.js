@@ -55,7 +55,7 @@ export default defineConfig({
       }
     })
   ],
-  base: './',
+  base: '/stock-trading-app/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
